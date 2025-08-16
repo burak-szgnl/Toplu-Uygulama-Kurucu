@@ -1,2 +1,2 @@
-# Toplu-Uygulama-Kurucu
-restart atmış olduğunuz bilgisayara USB'de olan uygulamalarınızı uygulamanın içine dosya yoluya atıp kurabilirsiniz
+# Backup Program
+A simple program that makes the backup process practical (6 language options available)
