@@ -1,0 +1,16 @@
+{
+    "profiles": {
+        "Bükrek": {
+            "source_folder_list": [],
+            "target_folder_list": [],
+            "file_types": [
+                ".txt",
+                ".jpg",
+                ".png",
+                ".pdf",
+                ".docx"
+            ],
+            "language": "English"
+        }
+    }
+}
